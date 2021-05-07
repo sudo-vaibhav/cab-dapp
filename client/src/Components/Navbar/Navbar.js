@@ -51,14 +51,14 @@ function Navbar(){
                             <div style={{width: "30px"}}></div>
                             History
                         </Link>
-                        <Link to="/map" className="navbar-link">
+                        {/* <Link to="/map" className="navbar-link">
                             <div style={{width: "30px"}}></div>
                             Map
                         </Link>
                         <Link to="/driver" className="navbar-link">
                             <div style={{width: "30px"}}></div>
                             Driver
-                        </Link>
+                        </Link> */}
                     </div>
                 </div>
             </div>
